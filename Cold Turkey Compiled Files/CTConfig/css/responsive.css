@@ -1,0 +1,203 @@
+/* ==================================================================
+Media Queries
+================================================================== */
+
+/* ==================================================================
+Desktop
+================================================================== */
+@media only screen and (min-width: 979px) {
+	/* ==================================================================
+	ScrollBar
+	================================================================== */
+
+	::-webkit-scrollbar {
+	    width: 8px;
+	}
+	 
+	::-webkit-scrollbar-track {
+	    -webkit-box-shadow: none; 
+	    -webkit-border-radius: 0px;
+	    border-radius: 0px;
+	}
+	 
+	::-webkit-scrollbar-thumb {
+	    -webkit-border-radius: 0px;
+	    border-radius: 0px;
+	    background: rgba(180,180,180,0.8); 
+	    -webkit-box-shadow: none; 
+	}
+
+	::-webkit-scrollbar-thumb:window-inactive {
+		background: rgba(180,180,180,0.4); 
+	}
+}
+
+/* ==================================================================
+Tablet Portrait size to Tablet Landscape (devices and browsers)
+================================================================== */
+@media only screen and (min-width: 768px) and (max-width: 979px) {
+		
+	/* ==================================================================
+	Portfolio
+	================================================================== */
+
+	.portfolio .portfolio-item {
+		height: 149px;
+	}
+
+}
+
+/* ==================================================================
+All Mobile Sizes (devices and browsers)
+================================================================== */
+@media only screen and (max-width: 767px) {
+
+	body {
+		overflow: visible;
+	}
+
+	section {
+		width: 100%;
+		height: 100%;
+		position: relative;
+		z-index: 50;
+		overflow: visible;
+		background: #f2f2f2;
+		float: left;
+	}
+
+	section .container {
+		padding-top: 70px;	
+	}
+
+	section > .container {
+		padding-bottom: 40px;
+	}
+
+	#portfolio {
+		overflow: hidden;
+	}
+
+	/* ==================================================================
+	Main Navigation
+	================================================================== */
+	
+	nav#main-nav {   
+        height: auto;  
+    }
+
+	nav#main-nav > ul {
+		display: none;
+		background: #333333;
+		width: 100%;
+		height: auto;
+		margin-right: 0px;
+	}
+
+    nav#main-nav > ul li {  
+        width: 100%;  
+        float: left;  
+        position: relative;
+        border-top: 1px solid #3d3d3d;
+    }
+
+    nav#main-nav > ul li a {  
+  		color: #ffffff;
+  		padding: 15px 20px;
+  		width: 100%;
+    }
+
+    nav#main-nav ul li a.active {
+		color: #ffffff;
+	}
+
+	/* ==================================================================
+	Responsive Navigation
+	================================================================== */
+
+	#main-nav #responsive-nav {
+		display: block;
+	}
+
+	/* ==================================================================
+	Intro
+	================================================================== */
+
+	#intro {
+		padding-top: 0px;
+	}
+
+	#intro .container {
+		padding-top: 50px;
+	}
+
+	/* ==================================================================
+	Services
+	================================================================== */
+
+	.features .feature-box .box-content {
+		margin-bottom: 30px;
+	}
+
+	.features-list {
+		margin-bottom: 30px;
+	}
+
+	/* ==================================================================
+	Portfolio
+	================================================================== */
+
+	.single-portfolio .image-container,
+	.single-portfolio .video-container,
+	.single-portfolio .gallery-container {
+		margin-bottom: 30px;
+	}
+
+	.single-portfolio .gallery-container {
+		min-height: 200px;
+	}
+
+	/* ==================================================================
+	Contacts
+	================================================================== */
+	.contact-form, .contact-info {
+		margin-bottom: 20px;
+	}
+
+}
+
+/* ==================================================================
+Mobile Landscape Size to Tablet Portrait (devices and browsers)
+================================================================== */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+		
+	.container {
+		width: 460px;
+	}
+	
+	/* ==================================================================
+	Portfolio
+	================================================================== */
+	.portfolio .portfolio-item {
+		height: 300px;
+	}
+
+}
+
+/* ==================================================================
+Mobile Portrait Size to Mobile Landscape Size (devices and browsers)
+================================================================== */
+@media only screen and (max-width: 479px) {
+
+	.container {
+		width: 300px;
+	}
+
+	/* ==================================================================
+	Portfolio
+	================================================================== */
+	.portfolio .portfolio-item {
+		height: 196px;
+	}
+
+}

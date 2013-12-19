@@ -1,0 +1,12 @@
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\bin\Debug\CTService.exe.config
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\bin\Debug\CTService.exe
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\bin\Debug\CTService.pdb
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\bin\Debug\CTService.xml
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\bin\Debug\NetworkTime.dll
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\obj\Debug\CTService.vbprojResolveAssemblyReference.cache
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\obj\Debug\CTService.Resources.resources
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\obj\Debug\CTService.Service1.resources
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\obj\Debug\CTService.vbproj.GenerateResource.Cache
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\obj\Debug\CTService.exe
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\obj\Debug\CTService.xml
+C:\Users\Felix\Documents\Visual Studio 2013\Projects\CTService\kasrp_srv\obj\Debug\CTService.pdb

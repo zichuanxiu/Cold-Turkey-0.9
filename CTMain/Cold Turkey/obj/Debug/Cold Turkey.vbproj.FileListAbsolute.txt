@@ -1,0 +1,10 @@
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\bin\Debug\Cold Turkey.exe.config
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\bin\Debug\Cold Turkey.exe
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\bin\Debug\Cold Turkey.pdb
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\bin\Debug\Cold Turkey.xml
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\obj\Debug\Cold_Turkey.ColdTurkey.resources
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\obj\Debug\Cold_Turkey.Resources.resources
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\obj\Debug\Cold Turkey.vbproj.GenerateResource.Cache
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\obj\Debug\Cold Turkey.exe
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\obj\Debug\Cold Turkey.xml
+c:\users\felix\documents\visual studio 2013\Projects\Cold Turkey\Cold Turkey\obj\Debug\Cold Turkey.pdb
